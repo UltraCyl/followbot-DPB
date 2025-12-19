@@ -1,0 +1,260 @@
+2025-12-12 16:31:33,550 [1] INFO  App - DreamPoeBot Version: 0.3.27.42
+Path: C:\Users\<Username>\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\<ExeName>
+Arguments: C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 11 Pro
+OS Version: 10.0.26200
+OS Architecture: 64-bit
+InstalledUICulture: en-US [English (United States)]
+CurrentUICulture: en-US [English (United States)]
+CurrentCulture: en-SG [English (Singapore)]
+
+2025-12-12 16:31:33,570 [1] INFO  App - Now setting up JitProfiles...
+2025-12-12 16:31:33,592 [1] INFO  App - JitProfiles successfully setup!
+2025-12-12 16:31:33,599 [1] INFO  App - Now checking prerequisites...
+2025-12-12 16:31:33,600 [1] INFO  App - Prerequisite check complete!
+2025-12-12 16:31:36,209 [1] INFO  MainWindow - The selected domain is: Singapore. [S: 00:00:00.4683140, E: 00:00:00.5471758, C: 00:00:00.6876075, R: 00:00:00.4737064]
+2025-12-12 16:31:36,213 [1] INFO  MainWindow - DreamPoeBot [0.3.27.42] is up to date!
+2025-12-12 16:31:36,333 [14] INFO  Class104 - [Pre-Login] Connecting to BestLatency [15.235.186.246]
+2025-12-12 16:31:37,071 [14] INFO  Class104 - Region: eu
+2025-12-12 16:31:37,071 [14] INFO  Class104 - T: 5250697305390730923 
+2025-12-12 16:31:39,246 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-12-12 16:31:40,151 [16] INFO  LokiPoe - Pattern scan completed.
+2025-12-12 16:31:48,372 [16] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-12-12 16:31:49,533 [16] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-12-12 16:31:49,661 [16] INFO  LokiPoe - IGS = 3685DFE0810.
+2025-12-12 16:31:49,661 [16] INFO  LokiPoe - LIS = 3685C188E10.
+2025-12-12 16:31:49,661 [16] INFO  LokiPoe - CSS = 368646F4910.
+2025-12-12 16:31:49,662 [16] INFO  LokiPoe - LSS = 36861D85810.
+2025-12-12 16:31:49,662 [16] INFO  LokiPoe - ALS = 36861D84810.
+2025-12-12 16:31:53,035 [16] DEBUG ThirdPartyLoader - Loading start.
+2025-12-12 16:31:53,044 [16] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-12-12 16:31:53,051 [16] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-12-12 16:31:53,051 [16] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-12-12 16:31:53,052 [16] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-12-12 16:31:53,052 [16] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-12-12 16:31:53,053 [16] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-12-12 16:31:53,053 [16] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-12-12 16:31:53,054 [16] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-12-12 16:31:53,055 [16] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-12-12 16:31:53,055 [16] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-12-12 16:31:53,056 [16] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-12-12 16:31:53,056 [16] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-12-12 16:31:53,056 [16] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-12-12 16:31:53,057 [16] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-12-12 16:31:53,057 [16] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-12-12 16:31:53,058 [16] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-12-12 16:31:53,058 [16] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-12-12 16:31:53,059 [16] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-12-12 16:31:53,060 [16] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-12-12 16:31:55,719 [19] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-12-12 16:31:55,719 [9] INFO  PluginLoader - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\Plugins\FollowBot.dll
+-----------------
+2025-12-12 16:31:55,728 [19] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,729 [19] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-12-12 16:31:55,730 [19] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,730 [19] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,731 [19] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-12-12 16:31:55,731 [26] INFO  ThirdPartyLoader - PatherExplorer
+2025-12-12 16:31:55,732 [26] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,733 [26] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-12-12 16:31:55,733 [26] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,734 [26] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,734 [26] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,735 [30] INFO  ThirdPartyLoader - ExampleRoutine
+2025-12-12 16:31:55,736 [30] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,736 [30] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-12-12 16:31:55,737 [30] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-12-12 16:31:55,737 [30] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,738 [30] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,738 [29] INFO  ThirdPartyLoader - ExamplePlugin
+2025-12-12 16:31:55,738 [29] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,739 [29] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-12-12 16:31:55,739 [29] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,739 [29] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,740 [29] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,740 [16] INFO  ThirdPartyLoader - ExampleMover
+2025-12-12 16:31:55,740 [16] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,741 [16] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-12-12 16:31:55,741 [16] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,742 [16] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,742 [9] ERROR PluginLoader - [PluginLoader] error loading C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\Plugins\FollowBot.dll 
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at PluginLoader.PluginLoader.Load() in C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\3rdParty\_CONFIGS_\Production\PluginLoader\Content-50173187\PluginLoader.cs:line 36
+2025-12-12 16:31:55,743 [9] ERROR PluginLoader - [PluginLoader] loaderException 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:55,742 [16] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-12-12 16:31:55,744 [27] INFO  ThirdPartyLoader - Legacy
+2025-12-12 16:31:55,744 [27] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,745 [27] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-12-12 16:31:55,745 [27] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,745 [27] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,745 [27] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,746 [31] INFO  ThirdPartyLoader - ObjectExplorer
+2025-12-12 16:31:55,746 [31] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,747 [31] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-12-12 16:31:55,747 [31] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,747 [31] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,748 [31] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,748 [17] INFO  ThirdPartyLoader - NullBot
+2025-12-12 16:31:55,749 [17] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-12-12 16:31:55,749 [17] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-12-12 16:31:55,749 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,750 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,750 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,750 [9] INFO  ThirdPartyLoader - PluginLoader
+2025-12-12 16:31:55,751 [9] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-12-12 16:31:55,751 [9] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (PluginLoader: 1.0)
+2025-12-12 16:31:55,751 [9] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-12-12 16:31:55,752 [9] INFO  ThirdPartyLoader -                    [Content] : 
+2025-12-12 16:31:55,752 [9] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-12-12 16:31:55,752 [16] INFO  ThirdPartyLoader - Content compiled in 00:00:02.6920263.
+2025-12-12 16:31:55,753 [16] DEBUG ThirdPartyLoader - Loading finished!
+2025-12-12 16:31:55,994 [16] WARN  TypeLoader`1 - Skipping type processing of [FollowBot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null] due to an exception. System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at DreamPoeBot.Loki.Bot.TypeLoader`1.CreateAssemblysInstance(Assembly[] assembly_1)
+2025-12-12 16:31:55,994 [16] WARN  TypeLoader`1 - LoaderExceptions: 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,007 [16] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-12-12 16:31:56,035 [16] WARN  TypeLoader`1 - Skipping type processing of [FollowBot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null] due to an exception. System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at DreamPoeBot.Loki.Bot.TypeLoader`1.CreateAssemblysInstance(Assembly[] assembly_1)
+2025-12-12 16:31:56,035 [16] WARN  TypeLoader`1 - LoaderExceptions: 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,077 [16] INFO  Utility - [Initialize] NullBot.NullBot
+2025-12-12 16:31:56,083 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-12-12 16:31:56,135 [16] WARN  TypeLoader`1 - Skipping type processing of [FollowBot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null] due to an exception. System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at DreamPoeBot.Loki.Bot.TypeLoader`1.CreateAssemblysInstance(Assembly[] assembly_1)
+2025-12-12 16:31:56,136 [16] WARN  TypeLoader`1 - LoaderExceptions: 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,144 [16] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-12-12 16:31:56,146 [16] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-12-12 16:31:56,152 [16] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-12-12 16:31:56,153 [16] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-12-12 16:31:56,153 [16] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-12-12 16:31:56,154 [16] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-12-12 16:31:56,154 [16] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-12-12 16:31:56,154 [16] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-12-12 16:31:56,154 [16] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-12-12 16:31:56,155 [16] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-12-12 16:31:56,155 [16] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-12-12 16:31:56,155 [16] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-12-12 16:31:56,207 [16] WARN  TypeLoader`1 - Skipping type processing of [FollowBot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null] due to an exception. System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at DreamPoeBot.Loki.Bot.TypeLoader`1.CreateAssemblysInstance(Assembly[] assembly_1)
+2025-12-12 16:31:56,208 [16] WARN  TypeLoader`1 - LoaderExceptions: 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,218 [16] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-12-12 16:31:56,239 [16] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-12-12 16:31:56,297 [16] INFO  PluginLoader - [PluginLoader] Detected plugins: 
+-----------------
+	C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\Plugins\FollowBot.dll
+-----------------
+2025-12-12 16:31:56,300 [16] ERROR PluginLoader - [PluginLoader] error loading C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\Plugins\FollowBot.dll 
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at PluginLoader.PluginLoader.Load() in C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\3rdParty\_CONFIGS_\Production\PluginLoader\Content-50173187\PluginLoader.cs:line 36
+2025-12-12 16:31:56,301 [16] ERROR PluginLoader - [PluginLoader] loaderException 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,303 [16] WARN  TypeLoader`1 - Skipping type processing of [FollowBot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null] due to an exception. System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at DreamPoeBot.Loki.Bot.TypeLoader`1.CreateAssemblysInstance(Assembly[] assembly_1)
+2025-12-12 16:31:56,304 [16] WARN  TypeLoader`1 - LoaderExceptions: 
+System.IO.FileNotFoundException: Could not load file or assembly 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'GameOverlay, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null'
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+2025-12-12 16:31:56,310 [16] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-12-12 16:31:56,318 [16] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-12-12 16:31:56,321 [16] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-12-12 16:31:56,323 [16] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-12-12 16:31:56,324 [16] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-12-12 16:31:56,325 [16] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-12-12 16:31:56,326 [16] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-12-12 16:31:56,327 [16] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-12-12 16:31:56,423 [1] DEBUG BotManagerGui - Current 'Bot' set to NullBot.
+2025-12-12 16:31:56,455 [1] DEBUG RoutineManagerGui - Current 'Routine' set to ExampleRoutine.
+2025-12-12 16:31:56,675 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMover.
+2025-12-12 16:31:56,727 [16] INFO  BotWindow - Registering default Hotkeys:
+2025-12-12 16:31:56,730 [16] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-12-12 16:32:12,996 [1] INFO  PluginManager - [PluginManager.Deinitialize] Legacy.DevTab.DevTab
+2025-12-12 16:32:13,001 [1] INFO  PluginManager - [PluginManager.Deinitialize] ExamplePlugin.ExamplePlugin
+2025-12-12 16:32:13,001 [1] INFO  PluginManager - [PluginManager.Deinitialize] ObjectExplorer.ObjectExplorer
+2025-12-12 16:32:13,002 [1] INFO  PluginManager - [PluginManager.Deinitialize] PatherExplorer.PatherExplorer
+2025-12-12 16:32:13,003 [1] INFO  PluginManager - [PluginManager.Deinitialize] PluginLoader.PluginLoader
+2025-12-12 16:32:13,003 [1] INFO  PlayerMoverManager - [PlayerMoverManager.Deinitialize] ExampleMover.ExampleMover
+2025-12-12 16:32:13,004 [1] INFO  PlayerMoverManager - [PlayerMoverManager.Deinitialize] SkillPlayerMover.SkillPlayerMover
+2025-12-12 16:32:13,004 [1] INFO  RoutineManager - [RoutineManager.Deinitialize] ExampleRoutine.ExampleRoutine
+2025-12-12 16:32:13,006 [1] INFO  BotManager - [BotManager.Deinitialize] NullBot.NullBot
+2025-12-12 16:32:13,007 [1] INFO  ContentManager - [ContentManager.Deinitialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-12-12 16:32:13,334 [18] INFO  GameController - The Bot window is closed, now terminating DPB
+2025-12-12 16:32:14,345 [15] ERROR Class104 - Authentication thread exception: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at DreamPoeBot.Structures.ns13.Class104.Class105.HeartbeatThread()

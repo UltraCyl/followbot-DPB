@@ -1,0 +1,132 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Resetter"
+    xmlns:mahapps="http://metro.mahapps.com/winfx/xaml/controls" xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av"
+    x:Class="Resetter.Carry.Gui"
+    Height="184" Width="545">
+    <TabControl x:Name="Root" DataContext="{x:Static local:ResetterSettings.Instance}" Margin="-16,10,0,-185">
+
+        <TabControl.Resources>
+            <Style
+                x:Key="DataGridCheckBoxStyle"
+                BasedOn="{StaticResource MetroCheckBox}"
+                TargetType="{x:Type CheckBox}">
+                <Setter Property="HorizontalAlignment" Value="Center" />
+            </Style>
+        </TabControl.Resources>
+        <TabItem Header="[General]">
+            <Grid Height="341" Margin="0,0,86,0">
+                <Grid Margin="0,0,83,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <GroupBox
+                        Grid.Row="4"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="2"
+                        Header="Settings" Margin="0,5,-154,-51" Grid.RowSpan="9">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" MinHeight="19.96" />
+                                <RowDefinition Height="Auto" MinHeight="26" />
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="59" />
+                                <ColumnDefinition Width="141"/>
+                                <ColumnDefinition Width="200" />
+                            </Grid.ColumnDefinitions>
+
+                            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,0,20" Grid.RowSpan="3" Content="Carry Default Position"/>
+                            <Label
+                                x:Name="CarryDefaultPositionLabel"
+                                Grid.Row="0"
+                                Grid.Column="2" Margin="0,3,0,17" Grid.RowSpan="3" />
+
+                            <Button
+                                Grid.Row="2"
+                                Grid.Column="0"
+                                Margin="0,9,10,0"
+                                Click="SetCurrentPositionAsCarryPositionButton_Click"
+                                Content="Set Current Position As Carry Point"
+                                FontWeight="Normal"
+                                ToolTip="Sets your current player location as the new carry default position. " Grid.ColumnSpan="2" />
+
+                            <Label Grid.Row="3" Grid.ColumnSpan="2" Content="Max Carry Position Distance"/>
+                            <mahapps:NumericUpDown
+                                Grid.Row="3"
+                                Grid.Column="2"
+                                Maximum="250"
+                                Minimum="1"
+                                ToolTip="The maximum distance you can be from the carry default position before we attempt to move back to it."
+                                Value="{Binding MaxCarryPositionDistance}" Margin="62,3,-62,-3" RenderTransformOrigin="0.5,0.5" >
+                                <mahapps:NumericUpDown.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform Angle="-0.163"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </mahapps:NumericUpDown.RenderTransform>
+                            </mahapps:NumericUpDown>
+                        </Grid>
+                    </GroupBox>
+
+                    <CheckBox
+                        Grid.Row="12"
+                        Grid.Column="0"
+                        Margin="10,69,195,-93"
+                        Content="Auto Level Gems"
+                        IsChecked="{Binding CarryEnableLevelGems}" Checked="CheckBox_Checked_1" />
+                    <Button
+                        Click="UnsocketGems_Click"
+                        Content="Unsocket Gems"
+                        FontWeight="Normal"
+                        ToolTip="Sets your current player location as the new carry default position. " Margin="301,103,-154,-122" Grid.Row="12" Grid.ColumnSpan="2" />
+                    <Button
+                        Click="EnterZone_Click"
+                        Content="Enter
+ Zone"
+                        FontWeight="Normal"
+                        ToolTip="Sets your current player location as the new carry default position. " Margin="0,7,-154,1" Grid.Row="4" Grid.Column="1" Grid.RowSpan="4" />
+                    <Button
+                        Click="LeaveZone_Click"
+                        Content="Leave Zone"
+                        FontWeight="Normal"
+                        ToolTip="Sets your current player location as the new carry default position. " Margin="0,10,-154,2" Grid.Row="9" Grid.Column="1" Grid.RowSpan="3" />
+                    <CheckBox
+                        Grid.Row="12"
+                        Grid.Column="0"
+                        Margin="10,107,195,-131"
+                        Content="Mule"
+                        IsChecked="{Binding CarryMule}" Checked="CheckBox_Checked" />
+                </Grid>
+            </Grid>
+        </TabItem>
+        <TabItem Header="[Read Me]">
+            <TextBlock xml:space="preserve"><Run Text="&#xD;&#xA;TODO&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;            "/></TextBlock>
+
+
+        </TabItem>
+    </TabControl>
+</UserControl>

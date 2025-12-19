@@ -1,0 +1,14 @@
+{
+  "AssemblyName": "TestOverlay",
+  "FileList": [
+    "TestOverlay.cs",
+    "Example.cs"
+  ],
+  "Dependencies": [],
+  "References": [
+    "GameOverlay.dll", 
+    "SharpDX.Direct2D1.dll",
+    "SharpDX.DXGI.dll",
+    "SharpDX.dll"
+  ]
+}

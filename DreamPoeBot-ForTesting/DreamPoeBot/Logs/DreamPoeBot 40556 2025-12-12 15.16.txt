@@ -1,0 +1,20 @@
+2025-12-12 15:16:09,833 [1] INFO  App - DreamPoeBot Version: 0.3.27.42
+Path: C:\Users\<Username>\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\<ExeName>
+Arguments: C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 11 Pro
+OS Version: 10.0.26200
+OS Architecture: 64-bit
+InstalledUICulture: en-US [English (United States)]
+CurrentUICulture: en-US [English (United States)]
+CurrentCulture: en-SG [English (Singapore)]
+
+2025-12-12 15:16:09,853 [1] INFO  App - Now setting up JitProfiles...
+2025-12-12 15:16:09,854 [1] INFO  App - JitProfiles successfully setup!
+2025-12-12 15:16:09,861 [1] INFO  App - Now checking prerequisites...
+2025-12-12 15:16:09,862 [1] INFO  App - Prerequisite check complete!
+2025-12-12 15:16:21,295 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-12-12 15:16:21,303 [1] ERROR App - [LokiPoe.Deinitializer-Exception] Unhandled exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Hooks.Hooking.Deinitialize()
+   at DreamPoeBot.Loki.Game.LokiPoe.Deinitializer()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)

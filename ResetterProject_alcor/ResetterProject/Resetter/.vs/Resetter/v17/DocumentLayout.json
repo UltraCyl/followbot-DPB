@@ -1,0 +1,1232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\MapBot_DPB_Converted_REUPLOAD\\MapBot\\CastAuraTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\unsocketallgemstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\unsocketallgemstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\socketallgemsintoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\socketallgemsintoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|c:\\users\\pc\\desktop\\resetterproject_alcor\\resetterproject\\resetter\\tasks\\enterzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\enterzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:resetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\MapExplorationTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\SpecialObjectTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\leavezonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\leavezonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\deathhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\deathhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\resettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\resettask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\positioninzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\positioninzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\partytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\partytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\muletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:tasks\\muletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\carryenterzoneandopenportaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\carryenterzoneandopenportaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\carry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\carry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\levelgemstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\levelgemstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\gui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\gui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carryroutine\\routinesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carryroutine\\routinesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\TradeBot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\gui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:gui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:gui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\extensions\\cursorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:extensions\\cursorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\extensions\\wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:extensions\\wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\carrypositioninzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\carrypositioninzonetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carryroutine\\carryroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carryroutine\\carryroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\combattask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\combattask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\loottask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\loottask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carryroutine\\carryroutinegui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carryroutine\\carryroutinegui.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carryroutine\\carryroutinegui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carryroutine\\carryroutinegui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\carryunsocketgemtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\carryunsocketgemtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\DefenseAndFlaskTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\Class\\DefensiveSkillsClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CastAuraTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBotSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CombatTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\skillstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:skillstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\carry\\tasks\\carrydeathhandlingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:carry\\tasks\\carrydeathhandlingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.45110.rartemp\\FollowBot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.39638.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.48608.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot v6.3\\SimpleEXtensions\\Wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.31078.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.21271.rartemp\\FollowBot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.35615.rartemp\\FollowBot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.28522.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.27400.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.14687.rartemp\\FollowTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.9614.rartemp\\FollowBot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\MapBot\\TakeMapTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\extensions\\webhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074693-5F9D-4793-8850-871EE231A314}|Resetter.csproj|solutionrelative:extensions\\webhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\Exilebuddy.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\FollowBot-main\\FollowBot-main\\TravelToPartyZoneTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\ResurrectionLogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\Gui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutineSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\AssignMoveSkillTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\ClearCursorTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\FallbackTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\PostCombatHookTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\PlayerAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\CombatAreaCache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Positions\\WorldPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CachedObjects\\CachedWorldItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\QuestBot\\Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Carry.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Carry.cs",
+              "RelativeDocumentMoniker": "Carry\\Carry.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Carry.cs",
+              "RelativeToolTip": "Carry\\Carry.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:41:27.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resetter.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Resetter.cs",
+              "RelativeDocumentMoniker": "Resetter.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Resetter.cs",
+              "RelativeToolTip": "Resetter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:53:41.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveZoneTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\LeaveZoneTask.cs",
+              "RelativeDocumentMoniker": "tasks\\LeaveZoneTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\LeaveZoneTask.cs",
+              "RelativeToolTip": "tasks\\LeaveZoneTask.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAawI0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:23:27.977Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CarryPositionInZoneTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryPositionInZoneTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\CarryPositionInZoneTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryPositionInZoneTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\CarryPositionInZoneTask.cs",
+              "ViewState": "AQIAALQBAAAAAAAAAAAYwGcBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:00:54.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CastAuraTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\MapBot_DPB_Converted_REUPLOAD\\MapBot\\CastAuraTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\MapBot_DPB_Converted_REUPLOAD\\MapBot\\CastAuraTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\MapBot_DPB_Converted_REUPLOAD\\MapBot\\CastAuraTask.cs",
+              "RelativeToolTip": "..\\..\\..\\MapBot_DPB_Converted_REUPLOAD\\MapBot\\CastAuraTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T04:27:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TravelToPartyZoneTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot-main\\FollowBot-main\\TravelToPartyZoneTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot-main\\FollowBot-main\\TravelToPartyZoneTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot-main\\FollowBot-main\\TravelToPartyZoneTask.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot-main\\FollowBot-main\\TravelToPartyZoneTask.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAuwMkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:20:42.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TradeBot.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\TradeBot.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\TradeBot.json",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\TradeBot.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\TradeBot.json",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T06:55:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnterZoneTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\EnterZoneTask.cs",
+              "RelativeDocumentMoniker": "tasks\\EnterZoneTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\EnterZoneTask.cs",
+              "RelativeToolTip": "tasks\\EnterZoneTask.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:20:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.27400.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.27400.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.27400.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.27400.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:59:24.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DumpTabSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:42:21.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.28522.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.28522.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.28522.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.28522.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:59:36.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DefensiveSkillsClass.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\Class\\DefensiveSkillsClass.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\Class\\DefensiveSkillsClass.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\Class\\DefensiveSkillsClass.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\Class\\DefensiveSkillsClass.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:44:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DefenseAndFlaskTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\DefenseAndFlaskTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\DefenseAndFlaskTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\DefenseAndFlaskTask.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\DefenseAndFlaskTask.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwMwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:47:11.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketAllGemsIntoItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\SocketAllGemsIntoItem.cs",
+              "RelativeDocumentMoniker": "tasks\\SocketAllGemsIntoItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\SocketAllGemsIntoItem.cs",
+              "RelativeToolTip": "tasks\\SocketAllGemsIntoItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:30:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnsocketAllGemsTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\UnsocketAllGemsTask.cs",
+              "RelativeDocumentMoniker": "tasks\\UnsocketAllGemsTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\UnsocketAllGemsTask.cs*",
+              "RelativeToolTip": "tasks\\UnsocketAllGemsTask.cs*",
+              "ViewState": "AQIAADEBAAAAAAAAAAAAwFABAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:02:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecialObjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\SpecialObjectTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\SpecialObjectTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\SpecialObjectTask.cs",
+              "RelativeToolTip": "..\\..\\..\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\SpecialObjectTask.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:49:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapExplorationTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\MapExplorationTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\MapExplorationTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\MapExplorationTask.cs",
+              "RelativeToolTip": "..\\..\\..\\Exilebuddy (1)\\Exilebuddy\\3rdParty\\Default\\MapBot\\MapExplorationTask.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T12:50:00.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CombatTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CombatTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CombatTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CombatTask.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CombatTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:44:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CastAuraTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CastAuraTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CastAuraTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CastAuraTask.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\SimpleEXtensions\\CommonTasks\\CastAuraTask.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:44:21.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FollowBotSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBotSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBotSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBotSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBotSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:43:42.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FollowBot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBot.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBot.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.6\\FollowBot v6.6\\3rdParty\\FollowBot\\FollowBot.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:43:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FollowBot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.45110.rartemp\\FollowBot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.45110.rartemp\\FollowBot.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.45110.rartemp\\FollowBot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.45110.rartemp\\FollowBot.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAlwD8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:42:22.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.39638.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.39638.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.39638.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.39638.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:41:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TakeMapTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\MapBot\\TakeMapTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\MapBot\\TakeMapTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\MapBot\\TakeMapTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\MapBot\\TakeMapTask.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:16:41.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.48608.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.48608.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.48608.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.48608.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:52:56.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FollowBot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.9614.rartemp\\FollowBot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa39564.9614.rartemp\\FollowBot.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.9614.rartemp\\FollowBot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa39564.9614.rartemp\\FollowBot.cs",
+              "ViewState": "AQIAAFABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:56:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.14687.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa39564.14687.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa39564.14687.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa39564.14687.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:57:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Wait.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\FollowBot v6.3\\SimpleEXtensions\\Wait.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FollowBot v6.3\\SimpleEXtensions\\Wait.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\FollowBot v6.3\\SimpleEXtensions\\Wait.cs",
+              "RelativeToolTip": "..\\..\\..\\FollowBot v6.3\\SimpleEXtensions\\Wait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:51:00.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FollowTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.31078.rartemp\\FollowTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.31078.rartemp\\FollowTask.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa51644.31078.rartemp\\FollowTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51644.31078.rartemp\\FollowTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:25:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FollowBot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.21271.rartemp\\FollowBot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.21271.rartemp\\FollowBot.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.21271.rartemp\\FollowBot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.21271.rartemp\\FollowBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:23:23.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FollowBot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.35615.rartemp\\FollowBot.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.35615.rartemp\\FollowBot.cs",
+              "ToolTip": "C:\\Users\\pc\\AppData\\Local\\Temp\\Rar$DIa38408.35615.rartemp\\FollowBot.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa38408.35615.rartemp\\FollowBot.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwFAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:00:47.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Events.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Events.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Events.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Events.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAJ4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:11:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PostCombatHookTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\PostCombatHookTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\PostCombatHookTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\PostCombatHookTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\PostCombatHookTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:19:24.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "CachedWorldItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CachedObjects\\CachedWorldItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CachedObjects\\CachedWorldItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CachedObjects\\CachedWorldItem.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CachedObjects\\CachedWorldItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:03:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "OldRoutine.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "ViewState": "AQIAAMAKAAAAAAAAAAAIwNwKAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:20:22.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DumpTabSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTabSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:33:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DumpTab.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:33:01.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LootItemTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAJoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:03:19.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CombatAreaCache.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\CombatAreaCache.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\CombatAreaCache.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\CombatAreaCache.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\CombatAreaCache.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAIwM0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:08:21.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DumpTab.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\DumpTab.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T03:42:19.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PlayerAction.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\PlayerAction.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\PlayerAction.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\PlayerAction.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\PlayerAction.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAnwG8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:34:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "WorldPosition.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Positions\\WorldPosition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Positions\\WorldPosition.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Positions\\WorldPosition.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Positions\\WorldPosition.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:15:36.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "LootItemTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\LootItemTask.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAYwP4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:56:40.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Exilebuddy.xml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\Exilebuddy.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\Exilebuddy.xml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\Exilebuddy.xml",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\Exilebuddy.xml",
+              "ViewState": "AQIAAAXCAAAAAAAAAAAgwB7DAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-01T22:13:43.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\QuestBot\\Helpers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\QuestBot\\Helpers.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\QuestBot\\Helpers.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\QuestBot\\Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:23:12.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OldRoutine.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutine.cs",
+              "ViewState": "AQIAACYGAAAAAAAAAAAkwOUEAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:43:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ResurrectionLogic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\ResurrectionLogic.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\ResurrectionLogic.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\ResurrectionLogic.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\Global\\ResurrectionLogic.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:46:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Gui.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\Gui.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\Gui.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\Gui.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\DumpTab\\Gui.xaml.cs",
+              "ViewState": "AQIAAGsEAAAAAAAAAAAewIoEAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T23:43:33.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FallbackTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\FallbackTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\FallbackTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\FallbackTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\FallbackTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:19:33.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AssignMoveSkillTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\AssignMoveSkillTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\AssignMoveSkillTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\AssignMoveSkillTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\AssignMoveSkillTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:19:39.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OldRoutineSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutineSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutineSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutineSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Legacy\\OldRoutine\\OldRoutineSettings.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:20:55.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ClearCursorTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\ClearCursorTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\ClearCursorTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\ClearCursorTask.cs",
+              "RelativeToolTip": "..\\..\\..\\BOTTING\\Exilebuddy\\Exilebuddy\\3rdParty\\Default\\EXtensions\\CommonTasks\\ClearCursorTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:23:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarryEnterZoneAndOpenPortalTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryEnterZoneAndOpenPortalTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\CarryEnterZoneAndOpenPortalTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryEnterZoneAndOpenPortalTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\CarryEnterZoneAndOpenPortalTask.cs",
+              "ViewState": "AQIAAKsBAAAAAAAAAAAhwEwBAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T15:03:36.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PartyTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\PartyTask.cs",
+              "RelativeDocumentMoniker": "tasks\\PartyTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\PartyTask.cs",
+              "RelativeToolTip": "tasks\\PartyTask.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA4wEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:36:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MuleTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\MuleTask.cs",
+              "RelativeDocumentMoniker": "tasks\\MuleTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\MuleTask.cs",
+              "RelativeToolTip": "tasks\\MuleTask.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAUwGsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T01:52:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PositionInZoneTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\PositionInZoneTask.cs",
+              "RelativeDocumentMoniker": "tasks\\PositionInZoneTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\PositionInZoneTask.cs",
+              "RelativeToolTip": "tasks\\PositionInZoneTask.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAWwG8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:53:01.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\ResetTask.cs",
+              "RelativeDocumentMoniker": "tasks\\ResetTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\ResetTask.cs",
+              "RelativeToolTip": "tasks\\ResetTask.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAlwEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:52:44.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeathHandling.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\DeathHandling.cs",
+              "RelativeDocumentMoniker": "tasks\\DeathHandling.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\tasks\\DeathHandling.cs",
+              "RelativeToolTip": "tasks\\DeathHandling.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAkwJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:21:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gui.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Gui.xaml",
+              "RelativeDocumentMoniker": "Carry\\Gui.xaml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Gui.xaml",
+              "RelativeToolTip": "Carry\\Gui.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T16:10:34.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Gui.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Gui.xaml.cs",
+              "RelativeDocumentMoniker": "Carry\\Gui.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\Gui.xaml.cs",
+              "RelativeToolTip": "Carry\\Gui.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:23:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoutineSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\RoutineSettings.cs",
+              "RelativeDocumentMoniker": "CarryRoutine\\RoutineSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\RoutineSettings.cs",
+              "RelativeToolTip": "CarryRoutine\\RoutineSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:53:58.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:26:44.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LevelGemsTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\LevelGemsTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\LevelGemsTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\LevelGemsTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\LevelGemsTask.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:17:58.616Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CarryRoutine.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutine.cs",
+              "RelativeDocumentMoniker": "CarryRoutine\\CarryRoutine.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutine.cs",
+              "RelativeToolTip": "CarryRoutine\\CarryRoutine.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAArwCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:53:56.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WebHook.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\WebHook.cs",
+              "RelativeDocumentMoniker": "Extensions\\WebHook.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\WebHook.cs",
+              "RelativeToolTip": "Extensions\\WebHook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:14:25.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CarryUnsocketGemTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryUnsocketGemTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\CarryUnsocketGemTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryUnsocketGemTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\CarryUnsocketGemTask.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAmwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:33:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CursorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\CursorHelper.cs",
+              "RelativeDocumentMoniker": "Extensions\\CursorHelper.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\CursorHelper.cs",
+              "RelativeToolTip": "Extensions\\CursorHelper.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowKQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:57:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Wait.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\Wait.cs",
+              "RelativeDocumentMoniker": "Extensions\\Wait.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Extensions\\Wait.cs",
+              "RelativeToolTip": "Extensions\\Wait.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:02:14.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Messages.cs",
+              "RelativeDocumentMoniker": "Messages.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Messages.cs",
+              "RelativeToolTip": "Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:15:28.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Gui.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Gui.xaml.cs",
+              "RelativeDocumentMoniker": "Gui.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Gui.xaml.cs",
+              "RelativeToolTip": "Gui.xaml.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAawJAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:02:39.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Gui.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Gui.xaml",
+              "RelativeDocumentMoniker": "Gui.xaml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Gui.xaml",
+              "RelativeToolTip": "Gui.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T14:00:10.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CombatTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CombatTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\CombatTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CombatTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\CombatTask.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:25:54.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LootTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\LootTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\LootTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\LootTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\LootTask.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwBgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:07:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarryRoutineGui.xaml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutineGui.xaml",
+              "RelativeDocumentMoniker": "CarryRoutine\\CarryRoutineGui.xaml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutineGui.xaml",
+              "RelativeToolTip": "CarryRoutine\\CarryRoutineGui.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T21:10:29.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CarryRoutineGui.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutineGui.xaml.cs",
+              "RelativeDocumentMoniker": "CarryRoutine\\CarryRoutineGui.xaml.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\CarryRoutine\\CarryRoutineGui.xaml.cs",
+              "RelativeToolTip": "CarryRoutine\\CarryRoutineGui.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T20:55:38.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CarryDeathHandlingTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryDeathHandlingTask.cs",
+              "RelativeDocumentMoniker": "Carry\\tasks\\CarryDeathHandlingTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\Carry\\tasks\\CarryDeathHandlingTask.cs",
+              "RelativeToolTip": "Carry\\tasks\\CarryDeathHandlingTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:20:50.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:06:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SkillsTask.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\SkillsTask.cs",
+              "RelativeDocumentMoniker": "SkillsTask.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\ResetterProject_alcor\\ResetterProject\\Resetter\\SkillsTask.cs",
+              "RelativeToolTip": "SkillsTask.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwG0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:36:15.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

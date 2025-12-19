@@ -1,0 +1,40 @@
+<project outputDir="Confused" baseDir="bin\x64\Release" xmlns="http://confuser.codeplex.com">
+	<rule preset="none" pattern="true">
+		<protection id="anti debug">
+			<argument name="mode" value="win32" />
+		</protection>
+		<protection id="anti tamper" />
+		<protection id="constants" />
+
+		<protection id="anti dump" />
+		<protection id="anti ildasm" />
+		<protection id="ctrl flow">
+			<argument name="type" value="switch" />
+			<argument name="predicate" value="expression" />
+			<argument name="intensity" value="70" />
+			<argument name="depth" value="6" />
+			<argument name="junk" value="true" />
+		</protection>
+		<protection id="harden" />
+		<protection id="ref proxy">
+			<argument name="mode" value="strong" />
+			<argument name="encoding" value="x86" />
+			<argument name="internal" value="false" />
+			<argument name="typeErasure" value="false" />
+			<argument name="depth" value="4" />
+			<argument name="initCount" value="32" />
+		</protection>
+		<protection id="rename">
+			<argument name="mode" value="unicode" />
+			<argument name="renameArgs" value="true" />
+			<argument name="renEnum" value="true" />
+			<argument name="flatten" value="true" />
+			<argument name="forceRen" value="false" />
+			<argument name="renPublic" value="false" />
+			<argument name="renPdb" value="true" />
+			<argument name="renXaml" value="true" />
+		</protection>
+		<protection id="watermark" action="remove" />
+	</rule>
+  <module path="Resetter.dll" />
+</project>

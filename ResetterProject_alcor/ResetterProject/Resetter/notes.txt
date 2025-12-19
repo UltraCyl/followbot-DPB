@@ -1,0 +1,6 @@
+v0.19.0
+- Players that are in hideout with you who say wait,sec,minute will now be granted a longer duration between trade requests.
+- Added slightly better AFK/dnd detection BulkBuyer
+- Added AFK/dnd detection to ItemBuyer
+- Internal cleanup of some less than stellar design decisions I made early on 
+- Updated internal tasks to allow for faster bailouts of tasks we know are failing. IE, if the player never responded to our party invite there is no reason to clear our inventory since we never put anything in it.

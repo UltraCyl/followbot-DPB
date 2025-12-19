@@ -1,0 +1,7 @@
+{
+    "Name": "FollowBot",
+    "Author": "ConvertedHybrid",
+    "Version": "1.0.0",
+    "Description": "FollowBot merged into a single DLL and loaded through PluginLoader.",
+    "Main": "FollowBot.FollowBotPlugin"
+}

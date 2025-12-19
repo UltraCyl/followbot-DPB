@@ -1,0 +1,27 @@
+2025-12-19 09:29:05,396 [1] INFO  Logger - DreamPoeBot Version: 0.3.27.45
+Path: C:\Users\<Username>\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\<ExeName>
+Arguments: C:\Users\pc\Desktop\DreamPoeBot-ForTesting\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 11 Pro
+OS Version: 10.0.26200
+OS Architecture: 64-bit
+InstalledUICulture: en-US [English (United States)]
+CurrentUICulture: en-US [English (United States)]
+CurrentCulture: en-SG [English (Singapore)]
+
+2025-12-19 09:29:05,415 [1] INFO  Logger - Now setting up JitProfiles...
+2025-12-19 09:29:05,416 [1] INFO  Logger - JitProfiles successfully setup!
+2025-12-19 09:29:05,423 [1] INFO  Logger - Now checking prerequisites...
+2025-12-19 09:29:05,423 [1] INFO  Logger - Prerequisite check complete!
+2025-12-19 09:29:07,816 [1] INFO  Logger - The selected domain is: Europa. [S: 00:00:00.3794207, E: 00:00:00.3457433, C: 00:00:00.6763952, R: 00:00:00.5236878]
+2025-12-19 09:29:07,820 [1] INFO  Logger - DreamPoeBot [0.3.27.45] is up to date!
+2025-12-19 09:29:07,881 [12] INFO  Logger - [Pre-Login] Connecting to BestLatency [51.75.249.226]
+2025-12-19 09:29:08,430 [12] INFO  Logger - Region: eu
+2025-12-19 09:29:08,430 [12] INFO  Logger - T: 5250703099906210196 
+2025-12-19 09:29:10,626 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-12-19 09:29:11,081 [16] INFO  Logger - Pattern scan completed.
+2025-12-19 09:29:11,087 [16] ERROR Logger - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Loki.Controllers.GameStateController..ctor()
+   at DreamPoeBot.Loki.Controllers.GameController..ctor(Memory memory)
+   at DreamPoeBot.Loki.Game.LokiPoe.P0QSWH8Jrf(Offsets  , Int32  )
+   at DreamPoeBot.Loki.Game.LokiPoe.Uy2STSmF95(Process  , String&  )

@@ -1,0 +1,186 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
+    <ProjectGuid>{E4074693-5F9D-4793-8850-871EE231A314}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>Resetter</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Resetter</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;NO_HEARTBEAT</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'HeartBeat|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\HeartBeat\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' != 'Release'">
+    <Obfuscate>true</Obfuscate>
+    <ConfuserReplaceOutput>false</ConfuserReplaceOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <Obfuscate>true</Obfuscate>
+    <ConfuserReplaceOutput>true</ConfuserReplaceOutput>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Confuser.MSBuild">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <Version>1.6.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="DreamPoeBot, Version=0.3.24.36, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\5way dpb only\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\5way dpb only\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro, Version=1.5.0.23, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\5way dpb only\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\5way dpb only\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\info\exclude" />
+    <None Include=".vs\poe_trader_dll\v17\.suo" />
+    <None Include=".vs\slnx.sqlite" />
+    <None Include=".vs\VSWorkspaceState.json" />
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Carry\Gui.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Gui.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CarryRoutine\CarryRoutineGui.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="CarryRoutine\CarryRoutine.cs" />
+    <Compile Include="CarryRoutine\CarryRoutineGui.xaml.cs" />
+    <Compile Include="Carry\Carry.cs" />
+    <Compile Include="Carry\Gui.xaml.cs">
+      <DependentUpon>Gui.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Carry\tasks\CarryEnterZoneAndOpenPortalTask.cs" />
+    <Compile Include="Carry\tasks\CarryDeathHandlingTask.cs" />
+    <Compile Include="Carry\tasks\CarryPositionInZoneTask.cs" />
+    <Compile Include="Carry\tasks\CarryUnsocketGemTask.cs" />
+    <Compile Include="Carry\tasks\CombatTask.cs" />
+    <Compile Include="Carry\tasks\LevelGemsTask.cs" />
+    <Compile Include="Carry\tasks\LootTask.cs" />
+    <Compile Include="Extensions\CursorHelper.cs" />
+    <Compile Include="Extensions\Wait.cs" />
+    <Compile Include="Extensions\WebHook.cs" />
+    <Compile Include="Gui.xaml.cs">
+      <DependentUpon>Gui.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Messages.cs" />
+    <Compile Include="Resetter.cs" />
+    <Compile Include="CarryRoutine\RoutineSettings.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SkillsTask.cs" />
+    <Compile Include="tasks\DeathHandling.cs" />
+    <Compile Include="tasks\EnterZoneTask.cs" />
+    <Compile Include="tasks\LeaveZoneTask.cs" />
+    <Compile Include="tasks\MuleTask.cs" />
+    <Compile Include="tasks\PartyTask.cs" />
+    <Compile Include="tasks\PositionInZoneTask.cs" />
+    <Compile Include="tasks\ResetTask.cs" />
+    <Compile Include="tasks\SocketAllGemsIntoItem.cs" />
+    <Compile Include="tasks\UnsocketAllGemsTask.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\objects\pack\" />
+    <Folder Include=".git\refs\heads\" />
+    <Folder Include=".git\refs\tags\" />
+    <Folder Include=".vs\PoeTrader\v17\" />
+    <Folder Include="NewFolder1\" />
+    <Folder Include="WebHook\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+  <PropertyGroup>
+    <PostBuildEvent>if "$(ConfigurationName)" == "Release" "$(ProjectDir)ConfuserEx-CLI\Confuser.CLI.exe" "$(ProjectDir)Confuser.crproj"
+if "$(ConfigurationName)" == "Release" xcopy /y "$(ProjectDir)$(OutDir)Confused\Resetter.dll" "$(ProjectDir)..\DreamPoeBot\Plugins\"
+
+if "$(ConfigurationName)" == "Debug"  xcopy /y "$(ProjectDir)$(OutDir)Resetter.dll" "$(ProjectDir)..\DreamPoeBot\Plugins\"
+if "$(ConfigurationName)" == "Debug"  xcopy /y "$(ProjectDir)$(OutDir)Resetter.pdb" "$(ProjectDir)..\DreamPoeBot\Plugins\"</PostBuildEvent>
+  </PropertyGroup>
+  <Import Project="packages\Confuser.MSBuild.1.6.0\build\Confuser.MSBuild.targets" Condition="Exists('packages\Confuser.MSBuild.1.6.0\build\Confuser.MSBuild.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Confuser.MSBuild.1.6.0\build\Confuser.MSBuild.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Confuser.MSBuild.1.6.0\build\Confuser.MSBuild.targets'))" />
+  </Target>
+</Project>
